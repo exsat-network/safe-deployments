@@ -1,8 +1,8 @@
 {
-  "name": "@safe-global/safe-deployments",
+  "name": "@exsat/safe-deployments",
   "version": "1.37.23",
   "description": "Collection of Safe singleton deployments",
-  "homepage": "https://github.com/safe-global/safe-deployments/",
+  "homepage": "https://github.com/exsat-network/safe-deployments/",
   "license": "MIT",
   "main": "dist/index.js",
   "typings": "dist/index.d.ts",
@@ -25,7 +25,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/safe-global/safe-deployments.git"
+    "url": "git+https://github.com/exsat-network/safe-deployments.git"
   },
   "keywords": [
     "Ethereum",
@@ -34,7 +34,7 @@
   ],
   "author": "richard@safe.global",
   "bugs": {
-    "url": "https://github.com/safe-global/safe-deployments/issues"
+    "url": "https://github.com/exsat-network/safe-deployments/issues"
   },
   "devDependencies": {
     "@eslint/js": "^8.57.0",
