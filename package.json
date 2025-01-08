@@ -54,6 +54,7 @@
     "typescript-eslint": "^7.14.1"
   },
   "dependencies": {
+    "@exsat/safe-deployments": "file:exsat-safe-deployments-1.37.23.tgz",
     "semver": "^7.6.2"
   }
 }
